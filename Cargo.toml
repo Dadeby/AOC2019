@@ -8,7 +8,6 @@ edition = "2018"
 
 [dependencies]
 
-
 [[bin]]
 name = "day_01"
 path = "src/day1/day1.rs"
